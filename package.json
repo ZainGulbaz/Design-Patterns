@@ -1,0 +1,8 @@
+{
+  "name": "DesignPatterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ZainGulbaz/Design-Patterns.git",
+  "author": "Zain Gulbaz <zaingulbaz8@gmail.com>",
+  "license": "MIT"
+}
